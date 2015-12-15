@@ -1,0 +1,10 @@
+/test-*.sh
+*.sc
+/.overcommit.yml
+.idea
+/data
+target
+/ws.sc
+*.bin
+.DS_Store
+tmp
